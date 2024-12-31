@@ -410,9 +410,10 @@ p {
 }
 
 .form-control-1:focus {
-    background-color:#171717 ;
+    background-color:#222222 ;
     box-shadow: none;
     border: none;
+    color: white;
 }
 
 .form-control-1::-webkit-input-placeholder {
